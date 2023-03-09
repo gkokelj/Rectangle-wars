@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+canvas{
+    background: black;
+    display: block;
+    margin: 0 auto;
+}
+
+body{
+    background: url("background.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: cursive;
+}
+
+h1{
+    text-align: center;
+    font-family: papyrus;
+    color: white;
+}
+
+h2{
+    text-align: center;
+    font-family: papyrus;
+    color: white;
+}
+h3{
+    text-align: center;
+    font-family: papyrus;
+    color: white;
+}
+
+#instructions{
+    text-align: center;
+    font-family: papyrus;
+    color: white;
+}
